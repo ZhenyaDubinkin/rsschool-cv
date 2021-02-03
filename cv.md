@@ -50,6 +50,50 @@ Level | Skills | Time
 ◾◾◽◽◽ | Sublime Text | 2 month
 ◾◾◽◽◽ | Openserver | 2 month
 
+## Code examples:
+
+``` 
+<DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>My Page</title>
+</head>
+<body>
+<div class="cabinet">
+    <div class="case row">
+    <input class="upload_profile" type="file" multiple="multiple" accept=".txt,image/*" style="display: none;">
+        <div class="cabinet__user user">
+            <div class="user__info">
+                <div class="user__photo">
+                  <?php
+                      $get_my_pic = "SELECT * FROM `pictures_profile` WHERE `user_id` = '$user_id' LIMIT 1";
+                      $get_my_pic_sql = $conn->query($get_my_pic);
+                      if($get_my_pic_sql->num_rows > 0){
+                          $get_my_pic_row = $get_my_pic_sql->fetch_array();
+                      ?>
+                <div class="user__photo">
+                    <img class="img_profile" style="width: 131px" src="profiles/profile<?=$user_id?>/<?=$get_my_pic_row['img_id']?>" alt="">
+                </div>
+                  <?php
+                  }
+                  else{
+                    ?>
+                <div class="user__photo">
+                    <img class="img_profile" src="upload/icons/lk/photo.png" alt=">
+                </div>
+                  <?php
+                }
+                ?>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+```
+
 ## Work experience
 I have no work experience yet.
 
@@ -61,3 +105,6 @@ There is nothing here yet, but will be updated soon.
 - [ ] PHP bacis course on [Code-Basics](https://ru.code-basics.com/languages/php)
 
 **Goal:** I want to take more courses to learn more about web programming 
+
+## English Language
+I have  A1 level, but i continue to study the language.
