@@ -30,14 +30,16 @@ Before studying at the institute and during my studies i worked in many jobs and
  + great desire to work and learn new things
  
 ## Skills
+
 Programming languages
-Level | Skills | Time 
---- | --- | ---
-◾◾◽◽◽ | HTML/CSS | 2 months
-◾◽◽◽◽ | Git | 1 months
-◾◽◽◽◽ | Markdown | 1 months
-◾◽◽◽◽ | MySQL | 1 month
-◾◾◽◽◽ | PHP | 1 month
+
+| Level | Skills | Time | 
+| --- | --- | --- |
+| ◾◾◽◽◽ | HTML/CSS | 2 months |
+| ◾◽◽◽◽ | Git | 1 month |
+| ◾◽◽◽◽ | Markdown | 1 month |
+| ◾◽◽◽◽ | MySQL | 1 month |
+| ◾◾◽◽◽ | PHP | 1 month |
 
 ---
 
@@ -45,11 +47,11 @@ Development Tools
 
 | Level | Skills | Time |
 | --- | --- | --- |
-| ◾◽◽◽◽ | PHPStorm | 1 months |
-| ◾◽◽◽◽ | NetBeans | 1 months |
-| ◾◽◽◽◽ | Visual Code Studio | 1 months |
-| ◾◾◽◽◽ | Sublime Text | 2 month |
-| ◾◾◽◽◽ | Openserver | 2 month |
+| ◾◽◽◽◽ | PHPStorm | 1 month |
+| ◾◽◽◽◽ | NetBeans | 1 month |
+| ◾◽◽◽◽ | Visual Code Studio | 1 month |
+| ◾◾◽◽◽ | Sublime Text | 2 months |
+| ◾◾◽◽◽ | Openserver | 2 months |
 
 ## Code examples:
 
@@ -103,7 +105,7 @@ I have no work experience yet.
 There is nothing here yet, but will be updated soon.
 
 #### **Now I am taking courses:**
-- [ ] PHP bacis course on [Code-Basics](https://ru.code-basics.com/languages/php)
+[ ] PHP bacis course on [Code-Basics](https://ru.code-basics.com/languages/php)
 
 **Goal:** I want to take more courses to learn more about web programming 
 
