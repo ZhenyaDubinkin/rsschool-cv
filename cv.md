@@ -105,7 +105,7 @@ I have no work experience yet.
 There is nothing here yet, but will be updated soon.
 
 #### **Now I am taking courses:**
-* [ ] PHP bacis course on [Code-Basics](https://ru.code-basics.com/languages/php)
+- [ ] PHP bacis course on [Code-Basics](https://ru.code-basics.com/languages/php)
 
 **Goal:** I want to take more courses to learn more about web programming 
 
