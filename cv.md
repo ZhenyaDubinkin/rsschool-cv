@@ -42,13 +42,14 @@ Level | Skills | Time
 ---
 
 Development Tools
-Level | Skills | Time 
---- | --- | ---
-◾◽◽◽◽ | PHPStorm | 1 months
-◾◽◽◽◽ | NetBeans | 1 months
-◾◽◽◽◽ | Visual Code Studio | 1 months
-◾◾◽◽◽ | Sublime Text | 2 month
-◾◾◽◽◽ | Openserver | 2 month
+
+| Level | Skills | Time |
+| --- | --- | --- |
+| ◾◽◽◽◽ | PHPStorm | 1 months |
+| ◾◽◽◽◽ | NetBeans | 1 months |
+| ◾◽◽◽◽ | Visual Code Studio | 1 months |
+| ◾◾◽◽◽ | Sublime Text | 2 month |
+| ◾◾◽◽◽ | Openserver | 2 month |
 
 ## Code examples:
 
